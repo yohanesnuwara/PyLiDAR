@@ -1,4 +1,6 @@
 # PyLiDAR
+![LiDAR Gif](https://github.com/yohanesnuwara/PyLiDAR/assets/51282928/20866586-1eea-4485-a4ee-8a2db9d6bd87)
+
 We make it easier to perform analysis on LiDAR point cloud dataset in Python language, to be used mainly in forestry application. 
 
 ## Motivation
